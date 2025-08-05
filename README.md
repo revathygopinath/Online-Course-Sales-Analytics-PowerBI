@@ -25,7 +25,7 @@ stakeholders make informed decisions to improve revenue, content quality, and us
 - Step 5 : A column named "Discount Range" was created in which, discounts were grouped into various discount groups.
 for creating new column following DAX expression was written;
 
->Discount Range = 
+'''Discount Range = 
 SWITCH(TRUE(),
     'online_course_sales_dataset'[Discount Applied (%)] <= 10, "0-10%",
     'online_course_sales_dataset'[Discount Applied (%)] <= 20, "11-20%",
@@ -34,7 +34,7 @@ SWITCH(TRUE(),
     'online_course_sales_dataset'[Discount Applied (%)] <= 50, "41-50%",
     "51%+"
 )
----
+'''
 Snap of new calculated column,
 
 <img width="123" height="461" alt="Capture" src="https://github.com/user-attachments/assets/b6e89353-553d-4bfe-a057-587453ead8de" />
@@ -42,11 +42,11 @@ Snap of new calculated column,
 
 - Step 6 : To analyze student engagement, a DAX measure was created to calculate the percentage of users who Completed their courses out of all those who enrolled.
 
-Completion Rate (%) = 
+'''Completion Rate (%) = 
 DIVIDE(
     CALCULATE(COUNTROWS(online_course_sales_dataset), online_course_sales_dataset[Completion Status] = "Completed"),
     CALCULATE(COUNTROWS(online_course_sales_dataset), online_course_sales_dataset[Completion Status] IN {"Completed", "In Progress", "Not Started"})
-) * 100
+) * 100'''
 - Step 7 : 
 **Sales Analysis Visuals (Page 1):**
 
