@@ -67,4 +67,65 @@ Course Performance Analysis (Page 2):
 - Step 8 : Visual filters (Slicers) were added for five fields named "Course Name", "Instructor", "Country", "Category" & "Payment Method".
 - Step 9 : Four card visuals were added to the canvas, representing  total orders, total revenue, average selling price & average discount.           
 <img width="127" height="51" alt="image" src="https://github.com/user-attachments/assets/8832e84e-2c87-47b5-84dc-b0ad1ca26dfc" />
+<img width="119" height="50" alt="image" src="https://github.com/user-attachments/assets/5cfc2799-60d7-42bb-9714-0eb8493d0adb" />
+<img width="117" height="49" alt="image" src="https://github.com/user-attachments/assets/297b3668-b3ec-4559-a292-fcf9fc97f49c" />
+<img width="116" height="50" alt="image" src="https://github.com/user-attachments/assets/b694a759-b308-4bdd-a224-298a076b9aca" />
+
+###Report Snapshot (Power BI DESKTOP)
+
+<img width="867" height="489" alt="image" src="https://github.com/user-attachments/assets/0d8954cc-6015-4207-bf99-0472077f96e6" />
+<img width="870" height="498" alt="image" src="https://github.com/user-attachments/assets/d2dea50b-7484-4c53-8628-1be8fa3d4459" />
+
+
+
+### Key Findings & Insights
+Key Findings & Insights
+🔹 Sales & Revenue Analysis
+•    Monthly Revenue Trends:
+o    Highest Sales occurred in March and April (16k each), indicating seasonal spikes — consider aligning course launches or promotions during these months.
+o    May saw a revenue dip (7k) – explore potential marketing gaps or learner fatigue.
+•    Discount Strategy Optimization:
+o    Order volume increases from 192 to 217 for 0–20% discount range but declines sharply beyond that.
+o    👉 Recommendation: Keep discounts within 10–20% to maximize orders and revenue without sacrificing price margins.
+•    Top Revenue-Generating Courses:
+o    Digital Marketing (10.9k), Python Basics (9.6k), JavaScript Essentials (9.2k)
+o    These courses show high learner interest and can be prioritized for bundling or advanced versions.
+🔹 Geographic Insights
+•    Top Performing Countries by Revenue:
+o    🇨🇦 Canada – 19k
+o    🇺🇸 USA – 19k
+o    🇮🇳 India – 18k
+o    🇬🇧 UK – 16k
+o    🇦🇺 Australia – 15k
+•    👉 Suggestion: Target localized campaigns in these regions to further boost revenue.
+🔹 Category & Customer Behavior
+•    Popular Course Categories:
+o    📊 Data – 304 orders
+o    💼 Business – 291 orders
+o    👨‍💻 Programming – 208 orders
+o    🎨 Design – 197 orders
+o    Indicates learner preference for data-driven and business-related skills.
+•    Payment Preferences:
+o    💳 Debit Card – 35.2%
+o    💳 Credit Card – 33.3%
+o    💲 PayPal – 31.5%
+o    A balanced mix — ensure secure and flexible payment options are supported.
+🔹 Course Completion & Engagement
+•    Completion Rate Analysis:
+o    Highest: ✅ Project Management Pro – 43%
+o    Lowest: ❌ Machine Learning Intro – 25%
+o    👉 Suggest reviewing course complexity, content length, or interactivity for low-performing courses.
+•    Instructor Performance (Revenue / Rating):
+o    ⭐ David Chen (SQL Beginners): 9.1k / 4.27
+o    ⭐ Sandra White (Digital Marketing): 10k / 4.24
+o    ⭐ Michael Lee (Data Science Bootcamp): 8.9k / 4.25
+o    Shows positive correlation between instructor rating and revenue.
+________________________________________
+✅ Recommendations for Business Strategy
+•    Launch seasonal promotions in high-performing months (Mar–Apr).
+•    Maintain discounts in optimal 10–20% range for balancing profit and sales.
+•    Focus on top-selling courses for further marketing, upselling, and course extension opportunities.
+•    Improve course completion rates for lower-performing courses via better instructional design.
+•    Expand in high-revenue countries (India, USA, Canada) with targeted marketing.
+•    Monitor instructor effectiveness to identify training or content enhancement needs.
 
