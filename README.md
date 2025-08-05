@@ -34,7 +34,9 @@ SWITCH(TRUE(),
     'online_course_sales_dataset'[Discount Applied (%)] <= 50, "41-50%",
     "51%+"
 )
+
 Snap of new calculated column,
+
 <img width="123" height="461" alt="Capture" src="https://github.com/user-attachments/assets/b6e89353-553d-4bfe-a057-587453ead8de" />
 
 
