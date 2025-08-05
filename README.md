@@ -3,7 +3,6 @@
 
 
 
-### Dashboard Link : 
 ## Problem Statement
 
 This Power BI project analyzes sales performance and learner engagement data from an online
@@ -67,6 +66,5 @@ Course Performance Analysis (Page 2):
 
 - Step 8 : Visual filters (Slicers) were added for five fields named "Course Name", "Instructor", "Country", "Category" & "Payment Method".
 - Step 9 : Four card visuals were added to the canvas, representing  total orders, total revenue, average selling price & average discount.           
+<img width="127" height="51" alt="image" src="https://github.com/user-attachments/assets/8832e84e-2c87-47b5-84dc-b0ad1ca26dfc" />
 
-
-![Snap_Count]<img width="127" height="51" alt="Image" src="https://github.com/user-attachments/assets/6d83651c-7ded-45fd-97cd-bad243c810f9" />
